@@ -27,7 +27,7 @@ During the first trimester of 2019, the Total Fares by City Type line chart[see 
 ![Mod5_Pyber_Fare_Summary.png](https://github.com/KJRE54/PyBer_Analysis/blob/main/Mod5_Pyber_Fare_Summary.png)
 
 ## Summary Recommendations
-After review of the analysis, three recommendations are offered to address disparities among the city types:
+After review of the analysis, three recommendations are offered to address disparities between the City Types:
 
 1) Pyber should pursue growth opportunities in the Suburban and Rural segments.  
 2) Pyber should reduce the number of Urban Drivers and/or redirect their Driver resources to the Suburban and Rural segment to increase ridership and revenues.
