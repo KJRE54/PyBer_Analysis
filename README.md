@@ -24,7 +24,7 @@ NOTE:  the box and whisker images and the summary statistics by city type for Ri
 
 During the first trimester of 2019, the Total Fares by City Type line chart[see below] suggests that the Suburban fares are rather consistent in this time of year with a couple spikes. The Urban fares show a bit of volatility in the month of March. The Rural fares show positive modest volatility in Ride fare data throughout the first trimester. 
 
-![Mod5_Pyber_Fare_Summary.png]https://github.com/KJRE54/PyBer_Analysis/blob/main/Mod5_Pyber_Fare_Summary.png
+![Mod5_Pyber_Fare_Summary.png](https://github.com/KJRE54/PyBer_Analysis/blob/main/Mod5_Pyber_Fare_Summary.png)
 
 ## Summary Recommendations
 After review of the analysis, three recommendations are offered to address disparities among the city types:
