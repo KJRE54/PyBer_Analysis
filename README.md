@@ -20,11 +20,11 @@ Urban Drivers are saturated in that segment. Urban Drivers make for 80% of the T
 
 Interestingly, the data in both Suburban and Rural segments are skewed negatively. The Rural data is widely dispersed. The Urban data is symmetric. 
 The Urban mean Average Fare does not fall outside the Suburban and Rural standard deviation spread, but it does fall below the Suburban and Rural mean and median.
-Note the box and whisker images and the summary statistics by city type for Ride Fare data (Urban/Suburban/Rural) above.
+NOTE:  the box and whisker images and the summary statistics by city type for Ride Fare data (Urban/Suburban/Rural) above.
 
-During the first trimester of 2019, the Total Fares by City Type line chart suggests that the Suburban fares are rather consistent in this time of year with a couple spikes. The Urban fares show a bit of volatility in the month of March. The Rural fares show positive modest volatility in Ride fare data throughout the first trimester. 
+During the first trimester of 2019, the Total Fares by City Type line chart[see below] suggests that the Suburban fares are rather consistent in this time of year with a couple spikes. The Urban fares show a bit of volatility in the month of March. The Rural fares show positive modest volatility in Ride fare data throughout the first trimester. 
 
-
+![Mod5_Pyber_Fare_Summary.png]https://github.com/KJRE54/PyBer_Analysis/blob/main/Mod5_Pyber_Fare_Summary.png
 
 ## Summary Recommendations
 After review of the analysis, three recommendations are offered to address disparities among the city types:
